@@ -2,8 +2,8 @@
 *.opt
 
 # Projects
-*.project
-*.project*
+#*.project
+#*.project*
 *.bootinfo
 *.bootinfo*
 *.compileinfo
